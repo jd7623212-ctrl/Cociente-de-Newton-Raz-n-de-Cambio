@@ -1,0 +1,8 @@
+{
+  "name": "Cociente de Newton y Razón de Cambio - Guía Interactiva de Exposición",
+  "description": "Aplicación interactiva y didáctica para aprender y exponer el Cociente de Newton, el paso de la secante a la tangente y la razón de cambio con simuladores visuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
